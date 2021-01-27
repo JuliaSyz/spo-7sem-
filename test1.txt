@@ -1,0 +1,12 @@
+function summ(a,b):
+    g=a+b;
+    a=30+40;
+    return g;
+    end
+
+a=15;
+b=10;
+d=6*4+7;
+c=d+a;
+c=summ(a,b);
+

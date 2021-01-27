@@ -1,0 +1,15 @@
+a=15;
+bi=10;
+if a>10:
+bi=((3+a)*2-4);
+else:
+c=0;
+a=a-1;
+end
+while a>2:
+a=a-1;
+
+end
+
+
+
